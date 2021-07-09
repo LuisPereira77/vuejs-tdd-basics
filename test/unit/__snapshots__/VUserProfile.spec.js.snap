@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VUserProfile renders the component 1`] = `
+"<div class=\\"user-profile\\"><img id=\\"user-profile__avatar\\" src=\\"https://github.com/images/error/octocat_happy.gif\\" class=\\"rounded-full w-4\\">
+  <div id=\\"user-profile__name\\" class=\\"font-bold\\">
+    monalisa octocat
+  </div>
+  <div id=\\"user-profile__bio\\">
+    There once was...
+  </div>
+</div>"
+`;
